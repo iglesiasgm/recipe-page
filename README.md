@@ -8,8 +8,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://github.com/iglesiasgm/recipe-page
+- Live Site URL: https://recipe-page-frme.netlify.app/
 
 ## My process
 
